@@ -66,7 +66,7 @@ Step 2: Create Freestyle Project (e.g., MavenJava_Build)
 
 
 
- maven_we automation steps:
+ jenkin maven_we automation steps:
  II. Maven Web Automation Steps:
 └── Step 1: Open Jenkins (localhost:8080)
     ├── Click on "New Item" (left side menu)
