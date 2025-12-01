@@ -78,6 +78,7 @@ Step 2: Create Freestyle Project (e.g., MavenJava_Build)
             ├── Description: "Web Build demo"
             ├── Source Code Management:
             		└── Git repository URL: [GitMavenWeb repo URL]
+              url:-https://github.com/up1/maven_java_web_example.git
               url:-->https://github.com/MithunTechnologiesDevOps/maven-web-application.git 
             ├── Branches to build: */Main or master
             └── Build Steps:
